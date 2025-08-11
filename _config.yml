@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "./images/avatar.jpg"
-  name             : "黄海"
+  name             : "Hai Huang"
 #  pronouns         : # example: "she/her"  
   bio              : "Know thyself"
   location         : "People's Republic of China"
-  employer         : [China Unicom](https://www.chinaunicom.com/)
+  employer         : "China Unicom"
   uri              : # URL
   email            : "quixotehh@gmail.com" 
 
