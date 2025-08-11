@@ -20,10 +20,10 @@ I'm an undergraduate student majoring in IoT Engineering at Northeast Agricultur
 
 ### Education Background
 
-**Northeast Agricultural University** - IoT Engineering  
-**Time**: Sep 2022 - June 2026  
-**Main Courses**: Data Structures, Scientific Computing, Python Programming, Embedded Development, IoT industry application, etc.  
-**Academic Performance**: 86/100 over the first six semesters, IELTS 7.0
+- Northeast Agricultural University - IoT Engineering  
+- Time: Sep 2022 - June 2026  
+- Main Courses: Data Structures, Scientific Computing, Python Programming, Embedded Development, IoT industry application, etc.  
+- Academic Performance: 86/100 over the first six semesters, IELTS 7.0
 
 
 News
