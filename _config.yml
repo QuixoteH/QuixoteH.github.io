@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "./avatar.jpg"
   name             : "黄海"
 #  pronouns         : # example: "she/her"  
-#  bio              : "Know thyself"
+  bio              : "Know thyself"
   location         : "People's Republic of China"
   employer         : "[China Unicom](https://www.chinaunicom.com/)"
   uri              : # URL
