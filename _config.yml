@@ -9,8 +9,8 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Hai HUANG"
-title_separator          : "-"
+#title                    : "Hai HUANG"
+#title_separator          : "-"
 name                     : &name "Hai HUANG"
 description              : &description "personal description"
 url                      : https://quixoteh.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
