@@ -10,18 +10,30 @@ Biography
 ======
 I'm an undergraduate student majoring in IoT Engineering at Northeast Agricultural University. Passionate about software development and data analysis, I am proficient in multiple programming languages and tools, and possess a solid foundation in AI. I have actively participated in various projects and competitions during my academic journey, accumulating extensive practical experience.
 
-## Education Background
+<div style="display: flex; justify-content: space-between;">
 
-**NEAU** - IoT Engineering  
-**Time**: Sep 2022 - June 2026  
-**Main Courses**: Data Structures, Scientific Computing, Python Programming, Embedded Development, IoT industry application, etc.  
-**Academic Performance**: 86/100 over the first six semesters, IELTS 7.0
+<div style="width: 45%;">
 
-## Interests
+### Interests
 
 - Data Analysis and Processing
 - Machine Learning for quantitative finance
 - Medical image segmentation
+
+</div>
+
+<div style="width: 45%;">
+
+### Education Background
+
+**Northeast Agricultural University** - IoT Engineering  
+**Time**: Sep 2022 - June 2026  
+**Main Courses**: Data Structures, Scientific Computing, Python Programming, Embedded Development, IoT industry application, etc.  
+**Academic Performance**: 86/100 over the first six semesters, IELTS 7.0
+
+</div>
+
+</div>
 
 
 News
