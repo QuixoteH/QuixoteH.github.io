@@ -23,16 +23,16 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "卢本伟"
-  pronouns         : # example: "she/her"  
-  bio              : "卢本伟6666"
+  name             : "黄海"
+#  pronouns         : # example: "she/her"  
+#  bio              : "Know thyself"
   location         : "People's Republic of China"
-  employer         : "None"
+  employer         : "China Unicom"
   uri              : # URL
   email            : "quixotehh@gmail.com" 
 
   # Academic websites
-  academia         : # URL
+#  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
