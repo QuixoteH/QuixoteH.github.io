@@ -29,7 +29,7 @@ I'm an undergraduate student majoring in IoT Engineering at Northeast Agricultur
 News
 ======
 
-- [Jul 2025] Interning at China Unicom Chengdu Branch as an AI solutions intern, participating in projects such as automated generation of probation recommendations and low-altitude police applications using drones, and contributing to the "Blossom Cup" 5G Application Collection Competition.
+- [Jul 2025] Interning at China Unicom Chengdu Branch as an AI solution engineer intern, participating in projects such as automated generation of probation recommendations and low-altitude police applications using drones, and contributing to the "Blossom Cup" 5G Application Collection Competition.
 - [Mar 2025] The paper "Performance Improvement of Collaborative Filtering Algorithms Based on Deep Learning" was accepted by the 2025 3rd International Conference on Mechatronics, IoT and Industrial Informatics .
 - [Apr 2024] Our team secured a silver medal in the Kaggle Competition: Home Credit - Credit Risk Model Stability, ranking in the top 0.5%.
 - [Mar 2024] Successfully completed the Biological Informatics Sample Management Big Data Service Platform project, which is now in use at the university's biological informatics laboratory and has obtained copyright registration from the Copyright Bureau of China.
