@@ -21,8 +21,11 @@ Quantitative finance encompasses a broad spectrum of activities,from algorithmic
 Quantitative finance involves several key tasks,each with its own set of challenges and objectives.These include:
 
 • Algorithmic Trading.Developing automated trading systems that can execute trades at optimal times based on market conditions and predefined strategies.
+
 • Risk Management.Creating models to assess and mitigate financial risks associated with investments and trading activities.
+
 • Portfolio Optimization.Selecting the best mix of assets to maximize returns while minimizing risks.
+
 • Market Forecasting.Predicting future market trends and price movements to inform investment decisions.
 
 Deep learning models have been applied to all these tasks,with varying degrees of success.
