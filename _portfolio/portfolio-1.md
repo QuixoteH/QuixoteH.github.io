@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short desc牛魔ription of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Medical image segmentation"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/profile.png'>"
 collection: portfolio
 ---
 
