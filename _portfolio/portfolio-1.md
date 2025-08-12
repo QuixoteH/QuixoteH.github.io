@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-<br/><img src='/images/BratsSEG.png'>
+<br/><img src='/images/BraTS.png'>
 ## Introduction
 
 Brain tumor segmentation is a pivotal task in medical image analysis with profound implications for diagnosis, treatment planning, and assessment of therapeutic outcomes. Accurate identification and delineation of tumors from surrounding healthy tissues are crucial for neurosurgeons to determine the extent of the disease and plan interventions effectively. Magnetic resonance imaging (MRI) has emerged as the primary modality for brain tumor segmentation due to its exceptional contrast resolution and multi-dimensional capabilities.
