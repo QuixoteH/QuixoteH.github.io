@@ -14,18 +14,6 @@ Quantitative finance technologies have become pivotal in shaping modern financia
 
 Quantitative finance encompasses a broad spectrum of activities,from algorithmic trading and risk management to portfolio optimization and market forecasting.The application of deep learning in these areas has not only enhanced the efficiency and precision of financial operations but also opened up new avenues for innovation.
 
-## Related Work
-
-Early studies in quantitative finance focused on traditional statistical methods and simple machine learning techniques,such as linear regression and decision trees.Researchers like Atsalakis and Valavanis [4] provided comprehensive surveys on the use of neural networks in financial market forecasting,while Li and Ma [73] explored the application of artificial neural networks in various financial tasks.These works laid the foundation for the integration of machine learning into quantitative finance.
-
-However,with the advancement of deep learning in recent years,researchers have begun to explore more sophisticated architectures and methods,such as Recurrent Neural Networks (RNNs),Convolutional Neural Networks (CNNs),and Reinforcement Learning (RL).While existing surveys have covered some of these aspects,there remains a gap in providing a comprehensive and up-to-date overview of the latest developments in deep learning for quantitative finance.This survey aims to fill this gap by offering a detailed analysis of the latest techniques and their applications.
-
-## Review Methodology and Criteria
-
-Our review methodology involved a systematic search of leading conferences and journals in the fields of artificial intelligence and finance,such as NeurIPS,ICML,AAAI and IJCAI.Using keywords like "quantitative finance","deep learning","algorithmic trading" and "risk management",we identified a wide range of relevant papers and carefully selected 94 high-quality papers that focus on the application of deep learning in quantitative finance.
-
-The selection process involved filtering out papers with less than two pages of content and those that did not directly address the core themes of our survey.The final list of papers covers a diverse range of deep learning models and their applications,providing a solid foundation for our analysis.
-
 ## Quantitative Finance Tasks and Deep Learning Models
 
 ### Key Tasks in Quantitative Finance
