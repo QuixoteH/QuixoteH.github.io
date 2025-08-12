@@ -4,7 +4,7 @@ excerpt: "Brain tumor segmentation is a pivotal task in medical image analysis w
 collection: portfolio
 ---
 
-# Medical image segmentation : A Comprehensive Review of Brain Tumor Segmentation
+
 
 ## Introduction
 
