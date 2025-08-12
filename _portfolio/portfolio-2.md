@@ -1,6 +1,6 @@
 ---
 title: "AI for quantitative finance"
-excerpt: "Brain tumor segmentation is a pivotal task in medical image analysis with profound implications for diagnosis, treatment planning, and assessment of therapeutic outcomes. Accurate identification and delineation of tumors from surrounding healthy tissues are crucial for neurosurgeons to determine the extent of the disease and plan interventions effectively. Magnetic resonance imaging (MRI) has emerged as the primary modality for brain tumor segmentation due to its exceptional contrast resolution and multi-dimensional capabilities.<br/><img src='/images/Quant.png'>"
+excerpt: "Quantitative finance technologies have become pivotal in shaping modern financial markets,transforming how investment decisions are made and traded.In this domain,deep learning has emerged as a powerful tool,reshaping traditional quantitative analysis and strategies.Deep learning's ability to process vast amounts of data,identify complex patterns and optimize trading decisions has made it indispensable in the financial world.<br/><img src='/images/Quant.png'>"
 collection: portfolio
 ---
 
