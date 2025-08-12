@@ -6,7 +6,7 @@ collection: portfolio
 
 
 <br/><img src='/images/Quant.png'>
-# Quantitative Finance Technologies:A Deep Learning Odyssey
+
 
 ## Introduction
 
