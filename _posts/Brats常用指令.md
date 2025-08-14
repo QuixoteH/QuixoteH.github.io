@@ -1,10 +1,10 @@
 ---
-title: 'BraTS常用指令'
-date: 2025-04-01
-permalink: /posts/2025/04/BraTS常用指令/
-tags:
+Title: 'BraTS常用指令'
+Date: 2025-04-01
+Permalink: /posts/2025/04/BraTS常用指令/
+Tags:
   - CV
-  - BraTS25
+  - BraTS 25
   - AAAI-26
 ---
 
