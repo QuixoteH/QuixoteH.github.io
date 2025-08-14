@@ -6,8 +6,15 @@ author_profile: true
 ---
 
 {% include base_path %}
-<br/><img src='/images/md2.png'>
-<a href="https://b23.tv/icUbe9F" target="_blank" style="display:inline-block;padding:8px 20px;background:#007bff;color:#fff;border-radius:6px;text-decoration:none;margin-left:10px;">vocaloid</a>
+<div style="width:fit-content; margin:auto; position:relative;">
+  <img src="/images/md2.png" style="display:block; max-width:100%; height:auto;">
+  <a href="https://b23.tv/IrvOh7m" target="_blank"
+     style="position:absolute; left:50%; bottom:10px; transform:translateX(-50%);
+            display:inline-block; padding:8px 24px; background:#fff; color:#333;
+            border-radius:8px; text-decoration:none; font-weight:bold; box-shadow:0 2px 8px rgba(0,0,0,0.08); border:1px solid #ddd;">
+    soft_music
+  </a>
+</div>
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
