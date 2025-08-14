@@ -17,17 +17,19 @@ main:
 
   - title: "Awards"
     url: /teaching/   
+  
+  - title: "Blogs"
+    url: /year-archive/
 
-  - title: "Supervision"
-    url: /cv-json/
+  #- title: "Supervision"
+   # url: /cv-json/
 
 #  - title: "Talks"
  #   url: /talks/    
 
  
     #666
- # - title: "Blog Posts"
-  # url: /year-archive/
+
     
 #  - title: "CV"
 #    url: /cv/
